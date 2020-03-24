@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1584822059 source:c:\users\matei\desktop\proiect poo\poo\main.cpp
+	<iostream>
+	<fstream>
+	<assert.h>
+	"SparseMatrix.h"
+
+1584821346 source:c:\users\matei\desktop\proiect poo\poo\sparsematrix.cpp
+	"SparseMatrix.h"
+	"List.h"
+	"Nod.h"
+	<iostream>
+
+1584821305 c:\users\matei\desktop\proiect poo\poo\sparsematrix.h
+	"List.h"
+	<iostream>
+
+1584822251 c:\users\matei\desktop\proiect poo\poo\list.h
+	"Nod.h"
+	"SparseMatrix.h"
+	<iostream>
+
+1584822206 c:\users\matei\desktop\proiect poo\poo\nod.h
+	"List.h"
+	"SparseMatrix.h"
+	<iostream>
+
+1584798482 source:c:\users\matei\desktop\proiect poo\poo\nod.cpp
+	"Nod.h"
+	<iostream>
+
+1584822451 source:c:\users\matei\desktop\proiect poo\poo\list.cpp
+	"List.h"
+	"Nod.h"
+	<iostream>
+
+1584822451 source:c:\users\matei\desktop\uni\proiect poo\poo\list.cpp
+	"List.h"
+	"Nod.h"
+	<iostream>
+
+1585012409 c:\users\matei\desktop\uni\proiect poo\poo\list.h
+	"Nod.h"
+	"SparseMatrix.h"
+	<iostream>
+
+1585047819 c:\users\matei\desktop\uni\proiect poo\poo\nod.h
+	"List.h"
+	"SparseMatrix.h"
+	<iostream>
+
+1585052093 c:\users\matei\desktop\uni\proiect poo\poo\sparsematrix.h
+	"List.h"
+	<iostream>
+
+1585047856 source:c:\users\matei\desktop\uni\proiect poo\poo\nod.cpp
+	"Nod.h"
+	<iostream>
+
+1585074254 source:c:\users\matei\desktop\uni\proiect poo\poo\sparsematrix.cpp
+	"SparseMatrix.h"
+	"List.h"
+	"Nod.h"
+	<iostream>
+
+1585074205 source:c:\users\matei\desktop\uni\proiect poo\poo\main.cpp
+	<iostream>
+	<fstream>
+	<assert.h>
+	"SparseMatrix.h"
+
